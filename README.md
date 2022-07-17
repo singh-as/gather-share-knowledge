@@ -11,7 +11,7 @@
 		* write-back - RedisGear, Amazon DAX
 		* write-around
 		
-	* Cache Eviction policies:
+	* Eviction policies:
 		* LRU - least recently used
 		* LFU - least frequently used
 		* noeviction
