@@ -10,6 +10,7 @@
 			![](images/write-through.PNG)
 		* write-back - RedisGear, Amazon DAX
 			![](images/write-back.PNG)
+		* write-around
 		
 	* Cache Eviction policies:
 		* LRU - least recently used
