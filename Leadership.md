@@ -1,3 +1,0 @@
-# Leadership
-
-![](images/wheel.PNG)
