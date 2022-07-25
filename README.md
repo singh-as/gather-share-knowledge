@@ -4,3 +4,4 @@
 2. [Cache](/cache.md)
 3. [Fault tolerance](/fault.md)
 4. [Event-driven Architecture](/eda.md)
+5. [Probabilistic data structure](/prob_ds.md)
