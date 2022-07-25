@@ -23,6 +23,13 @@ Few agile metrics to measure team performance
 4. Stability - Is team happy with sprint execution
 
 
-I believe there is no pre-defined recipe for building a successful team. It's an art to identify right person who fits in the team culture, has skills and/or potential to perform the role and responsibilites.
 
+I believe there is no pre-defined recipe for building a successful team. It's an art to identify right people who fit well in the team culture, have skills and/or potential to perform the role and responsibilites. 
+
+To build a successful team as a leader, we can create an environment of:
+1. Trust
+2. Collaboration
+3. Empathy
+4. Open communication
+5. Equal say
 
