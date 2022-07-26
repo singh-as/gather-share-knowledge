@@ -32,4 +32,7 @@ To build a successful team as a leader, we can create an environment of:
 3. Empathy
 4. Open communication
 5. Equal say
+6. Innovation
+7. Acceptance of failure
+8. Accountability
 
